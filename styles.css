@@ -156,7 +156,10 @@
     display: block;
     margin: 0 auto;
     width: 80px;
+}
 
+.visible {
+    display: none;
 }
 
 /* About section */
@@ -176,6 +179,10 @@
 
 .about p {
     margin-top: 25px;
+}
+
+#more {
+    display: none;
 }
 
 /* Video section */
